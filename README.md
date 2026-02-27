@@ -117,7 +117,6 @@ python3.11 -m wayback-recon -t example.com
     ```bash
     wayback-recon -t example.com -s apis leaks
     ```
-    ```
 
 ## JSON Output Structure
 
