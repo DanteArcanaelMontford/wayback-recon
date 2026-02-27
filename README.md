@@ -1,7 +1,7 @@
 
 # Wayback Recon
 
-![Wayback Recon Banner](<img width="2389" height="1187" alt="image" src="https://github.com/user-attachments/assets/4d2b5e84-eef8-44db-9ffd-a2c0a45fdacc" />
+<img width="2389" height="1187" alt="image" src="https://github.com/user-attachments/assets/4d2b5e84-eef8-44db-9ffd-a2c0a45fdacc" />
 `<!-- Placeholder for banner image, assuming it exists or will be created -->`
 
 ## Description
