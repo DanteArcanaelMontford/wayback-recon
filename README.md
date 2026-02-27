@@ -88,44 +88,35 @@ python3.11 -m wayback-recon -t example.com
 
 ### Usage Examples
 
-1.**Fetch URLs for `example.com` and save results:**
+1.  **Fetch URLs for `example.com` and save results:**
 
     ```bash
-
-wayback-recon -t example.com
-
+    wayback-recon -t example.com
     ```
 
-2.**Fetch URLs and filter by status codes 200 and 301:**
+2.  **Fetch URLs and filter by status codes 200 and 301:**
 
     ```bash
-
-wayback-recon -t example.com --status-code 200,301
-
+    wayback-recon -t example.com --status-code 200,301
     ```
 
-3.**Fetch URLs and save to a specific output file:**
+3.  **Fetch URLs and save to a specific output file:**
 
     ```bash
-
-wayback-recon -t example.com -o my_custom_output.json
-
+    wayback-recon -t example.com -o my_custom_output.json
     ```
 
-4.**Display available categories for `example.com`:**
+4.  **Display available categories for `example.com`:**
 
     ```bash
-
-wayback-recon -t example.com -s
-
+    wayback-recon -t example.com -s
     ```
 
-5.**Search and display URLs in 'apis' and 'leaks' categories for `example.com`:**
+5.  **Search and display URLs in 'apis' and 'leaks' categories for `example.com`:**
 
     ```bash
-
-wayback-recon -t example.com -s apis leaks
-
+    wayback-recon -t example.com -s apis leaks
+    ```
     ```
 
 ## JSON Output Structure
