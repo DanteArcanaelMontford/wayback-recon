@@ -202,4 +202,4 @@ Developed by **Renato Pinheiro** (D@ant3).
 
 ## License
 
-[Add license information here, e.g., MIT License]
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/DanteArcanaelMontford/wayback-recon/blob/main/LICENSE)) file for details.
